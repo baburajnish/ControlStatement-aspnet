@@ -1,0 +1,6 @@
+D:\Rajnish\asp.net\ControlStatement\ConsoleEtcBillTask2\bin\Debug\ConsoleEtcBillTask2.exe.config
+D:\Rajnish\asp.net\ControlStatement\ConsoleEtcBillTask2\bin\Debug\ConsoleEtcBillTask2.exe
+D:\Rajnish\asp.net\ControlStatement\ConsoleEtcBillTask2\bin\Debug\ConsoleEtcBillTask2.pdb
+D:\Rajnish\asp.net\ControlStatement\ConsoleEtcBillTask2\obj\Debug\ConsoleEtcBillTask2.exe
+D:\Rajnish\asp.net\ControlStatement\ConsoleEtcBillTask2\obj\Debug\ConsoleEtcBillTask2.pdb
+D:\Rajnish\asp.net\ControlStatement\ConsoleEtcBillTask2\obj\Debug\ConsoleEtcBillTask2.csprojResolveAssemblyReference.cache

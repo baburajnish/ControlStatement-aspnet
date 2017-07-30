@@ -1,0 +1,9 @@
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask2\bin\Debug\ConsoleTask2.exe.config
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask2\bin\Debug\ConsoleTask2.exe
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask2\bin\Debug\ConsoleTask2.pdb
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask2\obj\Debug\ConsoleTask2.exe
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask2\obj\Debug\ConsoleTask2.pdb
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask2\obj\Debug\ConsoleTask2.csprojResolveAssemblyReference.cache
+D:\Rajnish\asp.net\ControlStatement-aspnet\ConsoleTask2\bin\Debug\ConsoleTask2.exe.config
+D:\Rajnish\asp.net\ControlStatement-aspnet\ConsoleTask2\obj\Debug\ConsoleTask2.exe
+D:\Rajnish\asp.net\ControlStatement-aspnet\ConsoleTask2\obj\Debug\ConsoleTask2.pdb

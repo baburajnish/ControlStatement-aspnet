@@ -18,7 +18,6 @@ namespace ConsoleTask2
             {
                 Console.WriteLine("Plaese enter second number, other than zero");
                 j = int.Parse(Console.ReadLine());
-
             }
             int div = i / j;
             Console.WriteLine("Division value is : " + div);

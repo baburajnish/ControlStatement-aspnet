@@ -1,0 +1,6 @@
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask6\bin\Debug\ConsoleTask6.exe.config
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask6\bin\Debug\ConsoleTask6.exe
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask6\bin\Debug\ConsoleTask6.pdb
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask6\obj\Debug\ConsoleTask6.csprojResolveAssemblyReference.cache
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask6\obj\Debug\ConsoleTask6.exe
+D:\Rajnish\asp.net\ControlStatement\ConsoleTask6\obj\Debug\ConsoleTask6.pdb
