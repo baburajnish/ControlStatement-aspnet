@@ -16,7 +16,7 @@ namespace ConsoleTask2
             int j = int.Parse(Console.ReadLine());
             if (j == 0)
             {
-                Console.WriteLine("Plaese enter second number other than zero");
+                Console.WriteLine("Plaese enter second number, other than zero");
                 j = int.Parse(Console.ReadLine());
 
             }
