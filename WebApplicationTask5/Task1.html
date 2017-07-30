@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task1</title>
+    <script language="javascript">
+        function add() {
+            var a = txtNum1.value
+            var b = txtNum2.value
+            var res = (+a) + (+b)
+            txtRes.value = res
+            txtNum1.value=""
+            txtNum2.value=""
+        }
+        function sub() {
+            var a = txtNum1.value
+            var b = txtNum2.value
+            var res = a-b
+            txtRes.value = res
+            txtNum1.value = ""
+            txtNum2.value = ""
+        }
+        function mul() {
+            var a = txtNum1.value
+            var b = txtNum2.value
+            var res = a*b
+            txtRes.value = res
+            txtNum1.value = ""
+            txtNum2.value = ""
+        }
+        function div() {
+            var a = txtNum1.value
+            var b = txtNum2.value
+            var res = a/b
+            txtRes.value = res
+            txtNum1.value = ""
+            txtNum2.value = ""
+        }
+
+
+
+
+    </script>
+</head>
+<body>
+    Enter first number :
+    <input type="text" id="txtNum1"/>
+    <br /><br />
+    Enter second number :
+    <input type="text" id="txtNum2" />
+    <br /><br />
+    <input type="button" id="btnAdd" value="Add" onclick="add()"/>
+    <input type="button" id="btnSub" value="Sub" onclick="sub()" />
+    <br /><br />
+    <input type="button" id="btnMul" value="Mul" onclick="mul()" />
+    <input type="button" id="btnDiv" value="Div" onclick="div()" />
+    <br /><br />
+    Result is :
+    <input type="text" id="txtRes" />
+
+</body>
+</html>
