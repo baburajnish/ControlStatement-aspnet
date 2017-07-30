@@ -21,7 +21,7 @@ namespace ConsoleTask2
 
             }
             int div = i / j;
-            Console.WriteLine("Divition value is : "+div);
+            Console.WriteLine("Division value is : " + div);
             Console.ReadLine();
 
         }
